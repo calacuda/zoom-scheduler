@@ -9,12 +9,9 @@ By: Calacuda | MIT Licence | epoch Feb 2, 2021
 
 
 import json
-# from os import getcwd
-# from os.path import join
 
 
 FILE_NAME = "schedule.json"
-# FILE_PATH = join(getcwd(), FILE_NAME)
 AFERMATIVE = {"y", "yes"}
 NEGATIVE = {"n", "no"}
 
